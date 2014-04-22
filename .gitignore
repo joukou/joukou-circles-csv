@@ -1,0 +1,4 @@
+dist
+.idea/workspace.xml
+node_modules
+coverage
